@@ -1,0 +1,84 @@
+/*--------------------------------------------------------------
+# Default Color Scheme
+--------------------------------------------------------------*/
+body {
+    color: #676e74;
+    background: #f3f4f6;
+}
+
+p {
+    color: #676e74;
+    margin-bottom: 18px;
+}
+
+p:last-of-type {
+    margin-bottom: 0;
+}
+
+.entry-meta,
+.entry-meta a,
+.entry-footer,
+.entry-footer a,
+.dt-testimonial-meta span,
+.dt-sidebar .dt-recent-post-holder span {
+    color: #93979c;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+a,
+.dt-site-header .dt-main-menu .menu > li > a,
+.dt-main-menu-sub .dt-main-menu li > a,
+.dt-main-menu li a,
+.dt-header-bg .dt-main-menu .menu > li > a {
+    color: #525961;
+}
+
+a:hover,
+.form-submit input[type="submit"]:hover {
+    color: #42caad !important;
+}
+
+.dt-site-header .current-menu-item > a,
+.dt-site-header .current_page_item > a,
+.dt-main-menu li:hover > a,
+.dt-featured-post-meta h2 a:hover,
+.dt-services-holder .dt-service-more a:hover,
+.dt-classes-holder .dt-class-meta a:hover {
+    color: #42caad !important;
+}
+
+.dt-site-header .current-menu-item > a,
+.dt-site-header .current_page_item > a,
+.dt-main-menu li > a:hover,
+.dt-featured-post-meta .dt-read-more a:hover,
+.form-submit input[type="submit"]:hover {
+    border-color: #42caad !important;
+}
+
+.dt-featured-post-meta .dt-read-more a:hover,
+.dt-featured-post-slider .swiper-button-next:hover,
+.dt-featured-post-slider .swiper-button-prev:hover,
+#back-to-top:hover {
+    background: #42caad;
+}
+
+.dt-services-holder .dt-service-more {
+    background: #42caad;
+}
+
+.dt-about-cont span a:hover,
+.dt-archive-post-read-more a:hover {
+    border-color: #42caad;
+}
